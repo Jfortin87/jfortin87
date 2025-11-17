@@ -40,12 +40,9 @@ Jordan
 
 # Email:
 
-   - *jfmac.sudo@icloud.com*
-   - *jfortin@noobiej.tech*
+   - *jordan.fortin87@outlook.com*
    - *JMFortin@alumni.fullsail.edu*
-   - *questions@noobiej.tech*
-   - *learn@noobiej.tech*
-   - *work@noobiej.tech*
+ 
  
 <hr />
 <br />
@@ -71,7 +68,7 @@ First Website: [Doggos](https://spacedoggo.noobiej.tech/) <br />
     
   GitHub:
   
-   - *https://github.com/Hazey8709/Hazey8709/*
+   - *https://github.com/Jfortin87*
     
   Facebook:
   
