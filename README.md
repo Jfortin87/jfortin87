@@ -1,6 +1,6 @@
   # Intro
  
-( *aka:* **Hazey87** ,   **Noobie J** )
+( *AKA:* **Jfortin87**, **Hazey8709**, **Hazey87** ,   **Noobie J** )
  
  Hello there! I'm Jordan, and I'm thrilled to have you visit my GitHub profile. I am a passionate and dedicated developer with a strong interest in building innovative solutions and exploring the possibilities of technology. With a solid foundation in web development and programming, I enjoy working on a wide range of projects, from creating interactive websites to developing robust applications. I strive to write clean, efficient, and maintainable code that not only meets the functional requirements but also adheres to best practices and industry standards.
 
