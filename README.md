@@ -50,6 +50,7 @@ Jordan
 <hr />
 <br />
 
+<!-- 
 # Live Project Links:
 Profile: [Noobie J](https://noobiej.tech) <br />
 Project Link: [CSS Selectors](https://css-selectors.noobiej.tech/) <br />
@@ -58,6 +59,7 @@ Todo-List Project: [Todo-List](http://todo-list.noobiej.tech/) <br />
 Responsive Viewer: [Responsive-Viewer](http://responsiveviewer.noobiej.tech/)  <br />
 First Website: [Doggos](https://spacedoggo.noobiej.tech/) <br />
 
+-->
 <hr />
 <br />
   
